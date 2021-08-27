@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, fellow devs 👋
+
+My name is **I Nyoman Arlan Kusuma Ardika**, you can call me **Arlan** for short.
+
+I'm currently a 3rd Computer Science student in Udayana University.\
+Reach me on [LinkedIn](https://www.linkedin.com/in/arlan-kusuma-ardika-81b514194/) | [Instagram](https://www.instagram.com/rlan.kusuma/)
+
 
 <!--
 **frhanklin/frhanklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
