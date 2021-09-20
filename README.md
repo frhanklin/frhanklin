@@ -2,7 +2,7 @@
 
 My name is **I Nyoman Arlan Kusuma Ardika**, you can call me **Arlan** for short.
 
-I'm currently a 3rd Computer Science student in Udayana University.\
+I'm currently on my 5th semester as a Computer Science student in Udayana University.\
 Reach me on [LinkedIn](https://www.linkedin.com/in/arlan-kusuma-ardika-81b514194/) | [Instagram](https://www.instagram.com/rlan.kusuma/)
 <p align="left">
 <a href="https://github.com/frhanklin">
